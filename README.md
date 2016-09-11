@@ -10,6 +10,7 @@ Accomplished, skilled and talented Lead Enterprise Technical Agile Coach with pr
 ## Work History
 Bedford Technology Group, Inc. Principal. I have been self-employed since college.
 ## Technologies
+
 | Tech   | Description of work |
 | ------ | ------------------- |
 | data   | path to data files to supply the data that will be passed into templates. |
@@ -21,7 +22,9 @@ Bedford Technology Group, Inc. Principal. I have been self-employed since colleg
 | data   | path to data files to supply the data that will be passed into templates. |
 | data   | path to data files to supply the data that will be passed into templates. |
 | data   | path to data files to supply the data that will be passed into templates. |
+
 ## Clients
+
 | Client | Description of work |
 | ------ | ----------- |
 | data   | path to data files to supply the data that will be passed into templates. |
