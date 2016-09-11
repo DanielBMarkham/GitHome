@@ -14,15 +14,15 @@ Bedford Technology Group, Inc. Principal. I have been self-employed since colleg
 ## Technologies
 | Tech   | Description of work |
 | ------ | ------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
+| AWS    | path to data files to supply the data that will be passed into templates. |
+| LAMP   | path to data files to supply the data that will be passed into templates. |
+| .NET   | path to data files to supply the data that will be passed into templates. |
+| C/C++   | path to data files to supply the data that will be passed into templates. |
+| Oracle/SQL Server/MySQL   | path to data files to supply the data that will be passed into templates. |
+| HTML/Javascript/JSOJN   | path to data files to supply the data that will be passed into templates. |
+| FP   | path to data files to supply the data that will be passed into templates. |
+| CI/CD   | path to data files to supply the data that will be passed into templates. |
+| ATDD/TDD   | path to data files to supply the data that will be passed into templates. |
 
 ## Clients
 | Client | Description of work |
