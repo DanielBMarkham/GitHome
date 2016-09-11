@@ -14,29 +14,29 @@ Bedford Technology Group, Inc. Principal. I have been self-employed since colleg
 ## Technologies
 | Tech   | Description of work |
 | ------ | ------------------- |
-| AWS    | path to data files to supply the data that will be passed into templates. |
-| LAMP   | path to data files to supply the data that will be passed into templates. |
-| .NET   | path to data files to supply the data that will be passed into templates. |
-| C/C++   | path to data files to supply the data that will be passed into templates. |
-| Oracle/SQL Server/MySQL   | path to data files to supply the data that will be passed into templates. |
-| HTML/Javascript/JSOJN   | path to data files to supply the data that will be passed into templates. |
-| FP   | path to data files to supply the data that will be passed into templates. |
-| CI/CD   | path to data files to supply the data that will be passed into templates. |
-| ATDD/TDD   | path to data files to supply the data that will be passed into templates. |
+| AWS    |  |
+| LAMP   |  |
+| .NET   |  |
+| C/C++   |  |
+| Oracle/SQL Server/MySQL   |  |
+| HTML/Javascript/JSOJN   |  |
+| FP   |  |
+| CI/CDDevOps   |  |
+| ATDD/TDD   |  |
 
 ## Selected Clients
 | Client | Description of work |
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
+| Capital One   |  |
+| NTTi3   |  |
+| Modea   |  |
+| Blue Cross/Blue Shield of NC   |  |
+| Alcatel-Lucent   |  |
+| State Farm   |  |
+| Charles Schwab   |  |
+| Federal Reserve Board of Governors (DC)   |  |
+| Wawanesa   |  |
+| Pitney Bowes   |  |
 
 ## Industries
 | Industry | Description of work |
