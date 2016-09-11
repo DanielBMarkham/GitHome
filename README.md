@@ -24,14 +24,32 @@ Bedford Technology Group, Inc. Principal. I have been self-employed since colleg
 | CI/CD   | path to data files to supply the data that will be passed into templates. |
 | ATDD/TDD   | path to data files to supply the data that will be passed into templates. |
 
-## Clients
+## Selected Clients
 | Client | Description of work |
 | ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
 | data   | path to data files to supply the data that will be passed into templates. |
 
 ## Industries
 | Industry | Description of work |
 | ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
+| data   | path to data files to supply the data that will be passed into templates. |
 | data   | path to data files to supply the data that will be passed into templates. |
 
 See [professional site](http://danielbmarkham.com) for videos, whitepapers, client stories, and more.
