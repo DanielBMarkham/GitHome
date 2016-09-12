@@ -12,25 +12,25 @@ Accomplished, skilled and talented Lead Enterprise Technical Agile Coach with pr
 Bedford Technology Group, Inc. Principal. I have been self-employed since college.
 
 ## Technologies
-| Tech   | Description of work |
+| Tech   | Time |
 | ------ | ------------------- |
-| AWS    |  |
-| LAMP   |  |
-| .NET   |  |
-| C/C++   |  |
-| Oracle/SQL Server/MySQL   |  |
-| HTML/Javascript/JSOJN   |  |
-| FP   |  |
-| CI/CDDevOps   |  |
-| ATDD/TDD   |  |
+| AWS    |  3 years basic project management|
+| LAMP   |  7 years |
+| .NET   |  15 years|
+| C/C++   |  2 years|
+| Oracle/SQL Server/MySQL   | 5 years  |
+| HTML/Javascript/JSOJN   | 15 years |
+| FP   |  3 years OCAML, F#|
+| CI/CDDevOps   |  3 years (custom builds) |
+| ATDD/TDD   |  15 years |
 
 ## Selected Clients
 | Client | Description of work |
 | ------ | ----------- |
-| Capital One   |  |
-| NTTi3   |  |
-| Modea   |  |
-| Blue Cross/Blue Shield of NC   |  |
+| Capital One   | Consumer credit/banking company needs help with Agile/Lean/XP practices building B2C multi-platform app. |
+| NTTi3   | Multi-national Global 50 company sets up startup incubator. Wants help using Agile/Lean practices from C-suite down to the teams. |
+| Modea   | Small digital marketing startup wants help tweaking their internal and customer-facing teams. |
+| Blue Cross/Blue Shield of NC   | Insurance provider desires to use SAFE to run multi-team programs, including a large data warehouse migration. |
 | Alcatel-Lucent   |  |
 | State Farm   |  |
 | Charles Schwab   |  |
