@@ -36,8 +36,11 @@ Bedford Technology Group, Inc. Principal. I have been self-employed since colleg
 | State Farm   | Large insurance provider wants to transform an IT shop of 10K+ from waterfall to Agile. |
 | Charles Schwab   | Large financial services organization needs help from an architect and process nerd in setting up a PMO. |
 | Federal Reserve Board of Governors (DC)   | The forum that sets the national interest rate desires a secure voting system. |
+| DeCA (Defense Commissary Agency)   | Department of Defense agency desired architect/analyst with structured process skills to lead a super-user group re-designing 33 existing systems.  |
 | Wawanesa   | Canadian insurer needs help from a .NET/SQL programmer with architecture skills to build an enterprise application security system. |
 | Pitney Bowes   | Large B2B provider of office automation machinery wants to scale a prototype e-commerce system to millions of users.  |
+| Trilogy   | Austin-based provider of complex pricing and configuration software needed tech-savvy lead with client skills to deliver custom projects.  |
+
 
 
 Want to see more? See [professional site](http://danielbmarkham.com) for videos, whitepapers, client stories, and more.
