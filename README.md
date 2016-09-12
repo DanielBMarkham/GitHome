@@ -9,7 +9,7 @@ Accomplished, skilled and talented Lead Enterprise Technical Agile Coach with pr
 * Experience in using, training, and mentoring several different Agile practices, including Kanban, Scrum, Scaled Agile Framework, and XP
 
 ## Work History
-Bedford Technology Group, Inc. Principal. I have been self-employed since college.
+Bedford Technology Group, Inc. Principal. I have been self-employed since college, working as a prime contractor for smaller projects and a subcontractor for larger ones.
 
 ## Selected Technologies
 | Tech   | Time |
@@ -39,18 +39,5 @@ Bedford Technology Group, Inc. Principal. I have been self-employed since colleg
 | Wawanesa   | Canadian insurer needs help from a .NET/SQL programmer with architecture skills to build an enterprise application security system. |
 | Pitney Bowes   | Large B2B provider of office automation machinery wants to scale a prototype e-commerce system to millions of users.  |
 
-## Industries
-| Industry | Description of work |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
-| data   | path to data files to supply the data that will be passed into templates. |
 
-See [professional site](http://danielbmarkham.com) for videos, whitepapers, client stories, and more.
+Want to see more? See [professional site](http://danielbmarkham.com) for videos, whitepapers, client stories, and more.
