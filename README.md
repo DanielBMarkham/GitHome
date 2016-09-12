@@ -11,7 +11,7 @@ Accomplished, skilled and talented Lead Enterprise Technical Agile Coach with pr
 ## Work History
 Bedford Technology Group, Inc. Principal. I have been self-employed since college.
 
-## Technologies
+## Selected Technologies
 | Tech   | Time |
 | ------ | ------------------- |
 | AWS    |  3 years basic project management|
@@ -23,20 +23,21 @@ Bedford Technology Group, Inc. Principal. I have been self-employed since colleg
 | FP   |  3 years OCAML, F#|
 | CI/CDDevOps   |  3 years (custom builds) |
 | ATDD/TDD   |  15 years |
+| Agile/Lean/Scrum/XP   |  20 years |
 
 ## Selected Clients
 | Client | Description of work |
 | ------ | ----------- |
 | Capital One   | Consumer credit/banking company needs help with Agile/Lean/XP practices building B2C multi-platform app. |
-| NTTi3   | Multi-national Global 50 company sets up startup incubator. Wants help using Agile/Lean practices from C-suite down to the teams. |
-| Modea   | Small digital marketing startup wants help tweaking their internal and customer-facing teams. |
-| Blue Cross/Blue Shield of NC   | Insurance provider desires to use SAFE to run multi-team programs, including a large data warehouse migration. |
-| Alcatel-Lucent   |  |
-| State Farm   |  |
-| Charles Schwab   |  |
-| Federal Reserve Board of Governors (DC)   |  |
-| Wawanesa   |  |
-| Pitney Bowes   |  |
+| NTTi3   | Multi-national Global 50 company sets up startup incubator. Wants help from somebody with both technical and process skills in using Agile/Lean practices from C-suite down to the teams. |
+| Modea   | Small digital marketing startup wants help from somebody with technical, consulting, and client management skills in tweaking their internal and customer-facing teams. |
+| Blue Cross/Blue Shield of NC   | Insurance provider desires to use SAFE to run multi-team programs, including a large data warehouse migration. Needs to set up coaching teams, coordinate with all the enterprise groups, and coach humdreds of projects as they get started. |
+| Alcatel-Lucent   | Embedded/Distributed team building next-gen comm gear wants to run faster and leaner. |
+| State Farm   | Large insurance provider wants to transform an IT shop of 10K+ from waterfall to Agile. |
+| Charles Schwab   | Large financial services organization needs help from an architect and process nerd in setting up a PMO. |
+| Federal Reserve Board of Governors (DC)   | The forum that sets the national interest rate desires a secure voting system. |
+| Wawanesa   | Canadian insurer needs help from a .NET/SQL programmer with architecture skills to build an enterprise application security system. |
+| Pitney Bowes   | Large B2B provider of office automation machinery wants to scale a prototype e-commerce system to millions of users.  |
 
 ## Industries
 | Industry | Description of work |
